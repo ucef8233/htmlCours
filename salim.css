@@ -1,0 +1,41 @@
+      .bkg{background-color: powderblue;}
+      .color {color: blue;}
+      .colorI    {color: red;}
+       #tst{
+            color: blue;
+            font-family: verdana;
+            font-size: 300%;
+         }
+      #tsts {
+            color: red;
+            font-family: courier;
+            font-size: 160%;
+             }
+      .border {
+                border: 1px solid powderblue;
+               }
+       .padding {
+              border: 1px solid powderblue;
+             padding: 30px;
+                 }
+         #margin {
+          border: 1px solid powderblue;
+          margin: 50px;
+           }
+          #p01 {
+                color: blue;
+          }
+       .error { 
+             color: red;
+                }
+       .table1 {
+                  border: 1px solid black;
+                }
+       .table2, .table3, .table4 {
+                  border: 1px solid black;
+                  border-collapse: collapse;
+        }
+        .table3 , .table4 {
+            padding: 15px;}
+            .table5 { 
+                  text-align: left;}
